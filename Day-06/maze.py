@@ -1,0 +1,18 @@
+# Reeborg's World: Maze
+# https://reeborg.ca/index_en.html
+# The goal of this maze is to get Reeborg to the flag.
+# Here is the solution:
+
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while at_goal() != True:
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()
