@@ -1,1 +1,0 @@
-word_list = ["apple", "banana", "mango", "grape"]

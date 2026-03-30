@@ -1,5 +1,5 @@
 # Reeborg's World: Maze
-# https://reeborg.ca/index_en.html
+# https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 # The goal of this maze is to get Reeborg to the flag.
 # Here is the solution:
 
